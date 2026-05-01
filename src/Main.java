@@ -9,5 +9,7 @@ void main() {
         IO.println("i = " + i + "Привет");
         IO.println("i = " + i + "Привет");
         IO.println("i = " + i + "Привет");
+        IO.println("i = " + i + "Привет");
+        IO.println("i = " + i + "Привет");
     }
 }
